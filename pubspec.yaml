@@ -1,7 +1,7 @@
 name: flutter_native_splash_lego
 description: "native splash screen for flutter project."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/flutter_native_splash_lego
 
 version: 1.0.0
 
